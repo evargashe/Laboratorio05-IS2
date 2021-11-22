@@ -4,15 +4,9 @@ import static org.junit.Assert.assertEquals;
 
 import static org.junit.Assert.assertNotEquals;
 
-import static org.junit.Assert.assertNull;
-
-import org.junit.Assert.*;
 
 import org.openqa.selenium.support.ui.*;
 
-import junit.framework.Assert;
-
-import java.util.concurrent.TimeUnit;
 
 //import static org.junit.Assert.assertEquals;
 
